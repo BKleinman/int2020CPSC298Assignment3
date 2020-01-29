@@ -1,3 +1,8 @@
+/**
+Brandon Kleinman
+2291703
+kleinman@chapman.edu
+*/
 #include <iostream>
 #include <string>
 

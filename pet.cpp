@@ -1,7 +1,11 @@
+/**
+Brandon Kleinman
+2291703
+kleinman@chapman.edu
+*/
 #include "pet.h"
 #include <iostream>
 #include <string>
-
 using namespace std;
 
 Pet::Pet(){ //default constructor
